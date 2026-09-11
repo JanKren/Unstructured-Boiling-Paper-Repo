@@ -1,0 +1,7 @@
+# Generated figures (reproducible from the Python scripts)
+*.png
+*.pdf
+
+# Python bytecode
+__pycache__/
+*.pyc
